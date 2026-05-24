@@ -1,0 +1,6 @@
+{
+  "name": "CanvasChat latest",
+  "description": "A collaborative workspace featuring a zoomable canvas for notes and shapes with an integrated, resizable chat space featuring a mini-map navigator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
